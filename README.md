@@ -4,6 +4,9 @@ IOT für Fortgeschrittene!
 
 In diesem unglaublich smarten Projekt lernt der Kicker des Startplatz Köln twittern.
 
+## Calliope Editor:
+
+Hex-files können unter http://pxt.calliope.cc/index.html geöffnet werden.  
 
 ## Callipoe Protokoll:
 
@@ -19,3 +22,7 @@ Kicker sendet:
 Kicker empfängt:  
 5:  Tweet zur Mitspielersuche ist draußen  
 6:  Tweet zur Turnierorgranisation ist draußen  
+
+## Twitter
+
+Der Account @sp_kicker veröffentlicht regelmäßig den aktuellen Kickerstatus.  
