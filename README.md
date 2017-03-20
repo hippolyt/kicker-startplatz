@@ -4,7 +4,7 @@ IOT für Fortgeschrittene!
 
 In diesem unglaublich smarten Projekt lernt der Kicker des Startplatz Köln twittern.
 
-Funktioenen 
+Funktionen 
 
 
 ## Calliope Editor:
@@ -28,4 +28,4 @@ Kicker empfängt:
 
 ## Twitter
 
-Der Account @sp_kicker veröffentlicht regelmäßig den aktuellen Kickerstatus.  
+Der Twitter-Account @sp_kicker veröffentlicht regelmäßig den aktuellen Kickerstatus.  
