@@ -9,6 +9,8 @@ In diesem unglaublich smarten Projekt lernt der Kicker des Startplatz Köln twit
 
 Gesendet wird unter Channel 6.
 
+Nachrichtenschema: `kicker=<integer>`  
+
 Kicker sendet:  
 1:  Jemand kickert  
 2:  Jemand sucht Mitspieler (Button A)  
