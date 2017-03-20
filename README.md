@@ -4,11 +4,14 @@ IOT für Fortgeschrittene!
 
 In diesem unglaublich smarten Projekt lernt der Kicker des Startplatz Köln twittern.
 
+Funktioenen 
+
+
 ## Calliope Editor:
 
 Hex-files können unter http://pxt.calliope.cc/index.html geöffnet werden.  
 
-## Callipoe Protokoll:
+## Calliope Protokoll:
 
 Gesendet wird unter Channel 6.
 
